@@ -1,4 +1,5 @@
-# Adversarial Learning Based Node-Edge Graph Attention Networks for Autism Spectrum Disorder Identification
+# Node-Edge Graph Attention Networks
+Adversarial Learning Based Node-Edge Graph Attention Networks for Autism Spectrum Disorder Identification
 ## cite
 ```
 @article{chen2022adversarial,
